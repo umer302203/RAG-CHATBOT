@@ -33,9 +33,10 @@ Whether it's research papers, legal documents, technical manuals, or business re
 
 Watch the chatbot in action — upload a PDF and ask questions instantly.
 
-<video src="demo.mp4" controls="controls" width="100%"></video>
+<video src="https://raw.githubusercontent.com/umer302203/RAG-CHATBOT/main/demo.mp4" controls="controls" width="100%"></video>
 
 > *The video shows the complete flow: PDF upload → question → answer generation.*
+
 
 
 ---
