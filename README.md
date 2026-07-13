@@ -1,3 +1,4 @@
+```markdown
 # 🤖 RAG Chatbot — Ask Questions from Your PDFs
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
@@ -33,9 +34,9 @@ Whether it's research papers, legal documents, technical manuals, or business re
 
 Watch the chatbot in action — upload a PDF and ask questions instantly.
 
-<div align="center">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7482365771642429440?compact=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post" style="max-width: 600px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);"></iframe>
-</div>
+> ⚠️ **Note:** If the iframe doesn't load, you can view the video directly on LinkedIn.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7482365771642429440?compact=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post" style="max-width: 600px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);"></iframe>
 
 > *The video shows the complete flow: PDF upload → question → answer generation.*
 
@@ -435,3 +436,4 @@ Feel free to reach out for collaboration, feedback, or just to say hi!
 </p>
 
 > Built with ☕ and 💻 by [Rana Umer](https://www.linkedin.com/in/rana-umer-05a9a9359/)
+```
