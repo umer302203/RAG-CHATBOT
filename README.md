@@ -1,4 +1,3 @@
-```markdown
 # 🤖 RAG Chatbot — Ask Questions from Your PDFs
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
