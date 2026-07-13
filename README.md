@@ -33,11 +33,10 @@ Whether it's research papers, legal documents, technical manuals, or business re
 
 Watch the chatbot in action — upload a PDF and ask questions instantly.
 
-> ⚠️ **Note:** If the iframe doesn't load, you can view the video directly on LinkedIn.
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7482365771642429440?compact=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post" style="max-width: 600px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);"></iframe>
+<video src="demo.mp4" controls="controls" width="100%"></video>
 
 > *The video shows the complete flow: PDF upload → question → answer generation.*
+
 
 ---
 
